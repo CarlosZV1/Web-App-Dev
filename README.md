@@ -4,6 +4,6 @@
   <h3><b>Chapters 1 & 2</b></h3>
 </head>
 <body>
-  <li>HoP 1</li>
-  <li>Assignment 1</li>
+  <li><a href"">HoP 1</a></li>
+  <li><a href"">Assignment 1</a></li>
 </body>
