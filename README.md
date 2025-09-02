@@ -1,7 +1,7 @@
 # Web-App-Dev
 
 <head>
-  <h3><b>Chapters 1 & 2</b></h3>
+  <h3><b>Chapters 1 & 2 </b></h3>
 </head>
 <body>
   <li><a href="index.html">HoP 1</a></li>
