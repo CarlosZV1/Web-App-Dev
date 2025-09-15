@@ -12,7 +12,10 @@
   <h3><b>Chapter 3 </b></h3>
 </head>
 <body>
-  <li><a href="">HoP 2</li>
+  <li>HoP 2:</li>
+    <ol>
+      <li><a href="inline.html">HoP 3.1</li>
+    </ol>
   <li><a href="">Practice 2</li>
 </body>
 
