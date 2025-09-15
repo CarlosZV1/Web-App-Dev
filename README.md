@@ -7,3 +7,19 @@
   <li><a href="structure.html">HoP 1</a></li>
   <li><a href="">Assignment 1</a></li>
 </body>
+
+<head>
+  <h3><b>Chapter 3 </b></h3>
+</head>
+<body>
+  <li><a href="">HoP 2</li>
+  <li><a href="">Practice 2</li>
+</body>
+
+<head>
+  <h3><b>Chapter 4</b></h3>
+</head>
+<body>
+  <li><a href="">HoP 3</li>
+  <li><a href="">Practice 3</li>
+</body>
