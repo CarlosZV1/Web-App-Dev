@@ -4,7 +4,7 @@
   <h3><b>Chapters 1 & 2 </b></h3>
 </head>
 <body>
-  <li><a href="structure.html">HoP 1</a></li>
+  <li><a href="chapter1-2/structure.html">HoP 1</a></li>
   <li><a href="">Assignment 1</a></li>
 </body>
 
@@ -14,7 +14,7 @@
 <body>
   <li>HoP 2:</li>
     <ol>
-      <li><a href="inline.html">HoP 3.1</li>
+      <li><a href="chapter3/inline.html">HoP 3.1</li>
     </ol>
   <li><a href="">Practice 2</li>
 </body>
