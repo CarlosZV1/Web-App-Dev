@@ -14,7 +14,10 @@
 <body>
   <li>HoP 2:</li>
     <ol>
-      <li><a href="chapter3/inline.html">HoP 3.1</li>
+      <li><a href="chapter3/inline.html">HoP 3.1a</li>
+      <li><a href="chapter3/inlinep.html">HoP 3.1b</li>
+      <li><a href="chapter3/embedded.html">HoP 3.2</li>
+      <li><a href="">HoP 3.4</li>
     </ol>
   <li><a href="">Practice 2</li>
 </body>
