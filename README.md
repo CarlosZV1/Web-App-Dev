@@ -14,10 +14,10 @@
 <body>
   <li>HoP 2:</li>
     <ol>
-      <li><a href="chapter3/inline.html">HoP 3.1a</li>
-      <li><a href="chapter3/inlinep.html">HoP 3.1b</li>
-      <li><a href="chapter3/embedded.html">HoP 3.2</li>
-      <li><a href="chapter3/embedded1.html">HoP 3.4</li>
+      <li><a href="chapter3/inline.html">HoP 3.1a</a></li>
+      <li><a href="chapter3/inlinep.html">HoP 3.1b</a></li>
+      <li><a href="chapter3/embedded.html">HoP 3.2</a></li>
+      <li><a href="chapter3/embedded1.html">HoP 3.4</a></li>
     </ol>
   <li><a href="">Practice 2</li>
 </body>
@@ -26,7 +26,10 @@
   <h3><b>Chapter 4</b></h3>
 </head>
 <body>
-  <li><a href="chapter4/ch4hop1.html">HoP 4.3</li>
-  <li><a href="chapter4/ch4hop2.html">HoP 4.7</li>
+  <ol>
+    <li><a href="chapter4/ch4hop1.html">HoP 4.3</a></li>
+    <li><a href="chapter4/ch4hop2.html">HoP 4.7</a></li>
+  </ol>
   <li><a href="">Practice 3</li>
+
 </body>
