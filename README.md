@@ -37,9 +37,9 @@
 </head>
 <body>
   <ol>
-    <li><a href="chapter6/ch6hop6-2.html">HoP 6.2</li>
-    <li><a href="chapter6/ch6hop6-3.html">HoP 6.3</li>
-    <li><a href="chapter6/ch6hop6-4.html">HoP 6.4</li>
-    <li><a href="chapter6/ch6hop6-6.html">HoP 6.6</li>
+    <li><a href="chapter6/Ch6HOP6-2.html">HoP 6.2</li>
+    <li><a href="chapter6/Ch6HOP6-3.html">HoP 6.3</li>
+    <li><a href="chapter6/Ch6HOP6-4.html">HoP 6.4</li>
+    <li><a href="chapter6/Ch6HOP6-6.html">HoP 6.6</li>
   </ol>
 </body>
