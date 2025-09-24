@@ -9,4 +9,7 @@ nav a { text-decoration: none; }
 footer { color: #333333;
          font-size: .75em;
          font-style: italic; }
+.company { font-weight: bold;
+           font-family: Georgia, "Times New Roman", serif;
+           font-size: 1.25em; }
 
