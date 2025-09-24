@@ -5,7 +5,7 @@
 </head>
 <body>
   <li><a href="chapter1-2/structure.html">HoP 1</a></li>
-  <li><a href="">Assignment 1</a></li>
+  <li><a href="">Practice 1</a></li>
 </body>
 
 <head>
@@ -26,6 +26,7 @@
   <h3><b>Chapter 4</b></h3>
 </head>
 <body>
-  <li><a href="">HoP 3</li>
+  <li><a href="chapter4/ch4hop1.html">HoP 4.3</li>
+  <li><a href="chapter4/ch4hop2.html">HoP 4.7</li>
   <li><a href="">Practice 3</li>
 </body>
