@@ -5,7 +5,7 @@
 </head>
 <body>
   <li><a href="chapter1-2/structure.html">HoP 1</a></li>
-  <li><a href="">Practice 1</a></li>
+  <li><a href="">Assignment 1</a></li>
 </body>
 
 <head>
@@ -18,7 +18,7 @@
       <li><a href="chapter3/embedded.html">HoP 3.2</a></li>
       <li><a href="chapter3/embedded1.html">HoP 3.4</a></li>
     </ol>
-  <li><a href="">Practice 2</li>
+  <li><a href="">Assignment 2</a></li>
 </body>
 
 <head>
@@ -29,7 +29,7 @@
     <li><a href="chapter4/ch4hop1.html">HoP 4.3</a></li>
     <li><a href="chapter4/ch4hop2.html">HoP 4.7</a></li>
   </ol>
-  <li><a href="">Practice 3</li>
+  <li><a href="">assignment 3</a></li>
 </body>
 
 <head>
@@ -42,6 +42,7 @@
     <li><a href="chapter6/Ch6HOP6-4.html">HoP 6.4</a></li>
     <li><a href="chapter6/Ch6HOP6-6.html">HoP 6.6</a></li>
   </ol>
+  <li><a href="">Assignment 4</a></li>
 </body>
 
 <head>
