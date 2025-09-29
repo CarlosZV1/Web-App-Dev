@@ -37,9 +37,20 @@
 </head>
 <body>
   <ol>
-    <li><a href="chapter6/Ch6HOP6-2.html">HoP 6.2</li>
-    <li><a href="chapter6/Ch6HOP6-3.html">HoP 6.3</li>
-    <li><a href="chapter6/Ch6HOP6-4.html">HoP 6.4</li>
-    <li><a href="chapter6/Ch6HOP6-6.html">HoP 6.6</li>
+    <li><a href="chapter6/Ch6HOP6-2.html">HoP 6.2</a></li>
+    <li><a href="chapter6/Ch6HOP6-3.html">HoP 6.3</a></li>
+    <li><a href="chapter6/Ch6HOP6-4.html">HoP 6.4</a></li>
+    <li><a href="chapter6/Ch6HOP6-6.html">HoP 6.6</a></li>
+  </ol>
+</body>
+
+<head>
+  <h3><b>Chapter 7</b></h3>
+</head>
+<body>
+  <ol>
+    <li><a href="chapter7/Ch7HOP7-4.html">HoP 7.4</a></li>
+    <li><a href="chapter7/Ch7HOP7-5.html">HoP 7.5</a></li>
+    <li><a href="chapter7/Ch7HOP7-7.html">HoP 7.7</a></li>
   </ol>
 </body>
