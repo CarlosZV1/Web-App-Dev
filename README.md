@@ -29,7 +29,7 @@
     <li><a href="chapter4/ch4hop1.html">HoP 4.3</a></li>
     <li><a href="chapter4/ch4hop2.html">HoP 4.7</a></li>
   </ol>
-  <li><a href="">assignment 3</a></li>
+  <li><a href="">Assignment 3</a></li>
 </body>
 
 <head>
