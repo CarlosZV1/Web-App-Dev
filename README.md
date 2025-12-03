@@ -5,7 +5,7 @@
 </head>
 <body>
   <li><a href="chapter1-2/structure.html">HoP 1</a></li>
-  <li><a href="">Assignment 1</a></li>
+  <li><a href="chapter1-2/band.html">Assignment 1</a></li>
 </body>
 
 <head>
