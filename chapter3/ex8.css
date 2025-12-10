@@ -1,0 +1,14 @@
+body { background-color: #000000 }
+
+h1 { color : #cccccc;
+font-family: "Times New Roman"; }
+
+a { background-color: #CCCCCC; }
+
+li { color: #ffffff;
+font-family: Arial, Helvetica, sans-serif; }
+
+.news { color : #D11406;
+		font-style: italic; }
+
+p { color: #ffffff; }
