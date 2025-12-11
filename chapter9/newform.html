@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>Signup Form</title>
+	
+</head>
+
+<form action="https://webdevbasics.net/scripts/demo.php" method="post">
+
+	Username: <input type="text" name="username" id="username" maxlength="30"><br>
+	
+	<p>Favorite Day of the Week?</p>
+	
+	<div>
+		<input type="radio" id="sunday" name="sunday" value="sunday">
+		<label for="sunday">Sunday</label>
+	</div>
+	<div>
+		<input type="radio" id="monday" name="monday" value="monday">
+		<label for="monday">Monday</label>
+	</div>
+	<div>
+		<input type="radio" id="tuesday" name="tuesday" value="tuesday">
+		<label for="tuesday">Tuesday</label>
+	</div>
+	<div>
+		<input type="radio" id="wednesday" name="wednesday" value="wednesday">
+		<label for="wednesday">Wednesday</label>
+	</div>
+	<div>
+		<input type="radio" id="thursday" name="thursday" value="thursday">
+		<label for="thursday">Thursday</label>
+	</div>
+	<div>
+		<input type="radio" id="friday" name="friday" value="friday">
+		<label for="friday">Friday</label>
+	</div>
+	<div>
+		<input type="radio" id="saturday" name="saturday" value="saturday">
+		<label for="saturday">Saturday</label>
+	</div>
+	
+	<label for="social-media">Favorite Social Media?</label>
+	
+		<select name="sm" id="social-media">
+			<option value="">Please select an option</option>
+			<option value="Instagram">Instagram</option>
+			<option value="Facebook">Facebook</option>
+			<option value="Snapchat">Snapchat</option>
+		</select>	
+		
+		<br>
+		
+	</label>
+	
+	<fieldset><legend>Shipping Address</legend>
+	
+		<label> Address line 1:
+		<input type="text" name="address1" id="address1"></label>
+		<br><br>
+		<label> Address line 2:
+		<input type="text" name="address2" id="address2"></label>
+		<br><br>
+		<label> City:
+		<input type="text" name="city" id="city"</label>
+		<br><br>
+		<label> State:
+		<input type="text" name="state" id="state"</label>
+		<br><br>
+		<label> Zip:
+		<input type="text" name="zip" id="zip"</label>
+		
+	</fieldset>
+	
+	<input type="hidden" name="userid" value="">
+	
+	<br><br>
+	
+	<label for="pwork">Password:</label>
+	<input type="password" id="pword" name="pword">
+	
+	<br><br>
+	
+	<input type="image" src="signup.gif" alt="Sign Up" name="signupButton"
+	
+</form>
