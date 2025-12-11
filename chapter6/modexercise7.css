@@ -45,10 +45,10 @@
 	}
 
 	img {
-		display: block;
-		margin-right: auto;
-		margin-left: 0;
+		float: right;
+		margin: 0 0 15px 15px;
 	}
+
 
 
 
