@@ -51,9 +51,11 @@
 		margin: 0 0 15px 15px;
 	}
 
-	.right-align {
-		text-align: right;
+	figcaption {
+    	font-size: 0.9em;
+    	margin-top: 5px;
 	}
+
 
 
 
