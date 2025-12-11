@@ -51,10 +51,23 @@
 		margin: 0 0 15px 15px;
 	}
 
-	figcaption {
+	.right-img {
+    	float: right;
+    	width: 300px;
+    	margin: 0 0 15px 15px;
+    	text-align: center;
+	}
+
+	.right-img img {
+    	width: 100%;
+    	height: auto;
+	}
+
+	.right-img figcaption {
     	font-size: 0.9em;
     	margin-top: 5px;
 	}
+
 
 
 
